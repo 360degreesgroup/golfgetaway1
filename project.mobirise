@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "NewSite-01-20_0126",
+    "name": "Golf Getaway ",
     "currentPage": "Home.html",
     "theme": {
       "name": "purity",
@@ -9,7 +9,11 @@
     },
     "versionFirst": "3.10.5",
     "uniqCompNum": 15,
-    "versionPublish": "3.10.5"
+    "versionPublish": "3.10.5",
+    "favicon": "",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "google-analytics": ""
   },
   "pages": {
     "Home.html": {
@@ -47,7 +51,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com"
@@ -80,7 +84,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/golf-course-1824369-2000x1194_1.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/golf-course-1824369-2000x1194-1.jpg",
             "bgColor": "#fff8e0",
             "bgColorRadio": false,
             "bgVideo": {
@@ -121,7 +125,7 @@
             "paddingBottom": "0",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -157,7 +161,7 @@
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "bgColor": "#001800",
             "bgColorRadio": true,
             "bgVideo": {
@@ -271,7 +275,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/the-shoals-course-1613273-2000x1333_1.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/the-shoals-course-1613273-2000x1333-1.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -284,7 +288,7 @@
             "showTitle": true,
             "showCaption": true
           },
-          "title": "NEXT TRIP:&nbsp;&nbsp;SUNNY MYRTLE BEACH: Thursday March 30th, 2017 to Sunday April 2nd.<br><br>ONLY $699 per person&nbsp;<span style=\"color: inherit; font-size: 3.5rem; line-height: 1.1;\">&nbsp;</span>",
+          "title": "NEXT TRIP:&nbsp;&nbsp;SUNNY MYRTLE BEACH: Thursday March 30th, 2017 to Sunday April 2nd, 2017<br><br>ONLY $699 per person&nbsp;<span style=\"color: inherit; font-size: 3.5rem; line-height: 1.1;\">&nbsp;</span>",
           "caption": ""
         },
         {
@@ -299,7 +303,7 @@
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
@@ -352,7 +356,7 @@
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "bgColor": "#001800",
             "bgColorRadio": true,
             "overlay": true,
@@ -403,7 +407,7 @@
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
